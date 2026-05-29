@@ -46,6 +46,6 @@ Currently, I'm working on:
 
 ## 📫 Connect With Me
 
-- GitHub: @jilsonpipo06
+- GitHub: JilsonCSvieira
 - LinkedIn: [Jilon Vieira] https://www.linkedin.com/in/jilsonvieira/
 - Gmail: jilsonpipo06@gmail.com
