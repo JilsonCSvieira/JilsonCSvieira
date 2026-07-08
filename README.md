@@ -1,4 +1,4 @@
-# Hi, I'm Jilson Vieira 👋
+# I'm Jilson Vieira 👋
 
 🎓 Computer Science Student at Quincy College  
 💻 Aspiring Software Developer  
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student. Software development, backend systems, and digital innovation are my goals as a future Software Engineer.
+I'm a Computer Science student. Software development, backend and frontend systems, and digital innovation are my goals as a future Software Engineer.
 
 I enjoy building practical projects, learning new technologies, and improving my problem-solving skills through real-world applications, always trying to build or work related to my homeland, Cabo Verde.
 
@@ -18,7 +18,7 @@ Currently, I'm working on:
 - Java backend projects
 - Web development projects
 - Cloud and AWS studies
-- C++ Game development
+- Game development
 
 ---
 
@@ -39,7 +39,7 @@ Currently, I'm working on:
 
 - Improve backend and frontend development skills
 - Build full-stack projects
-- Learn more about cloud infrastructure
+- Learn more about cloud infrastructure and Cybersecurity
 - Grow as a software engineer
 
 ---
