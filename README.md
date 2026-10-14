@@ -1,51 +1,17 @@
+
 # I'm Jilson Vieira 👋
 
-🎓 Computer Science Student at Quincy College  
-💻 Aspiring Software Developer  
-☁️ Learning Cloud Computing with AWS  
-🚀 Currently building projects with Java, C++, HTML, CSS, and JavaScript
+🎓 Computer Science Student at Quincy College
 
----
+## About Me
 
-## 🚀 About Me
+I'm a Computer Science student. Software development, backend and frontend systems and digital innovation are my goals as a future Software Engineer.
 
-I'm a Computer Science student. Software development, backend and frontend systems, and digital innovation are my goals as a future Software Engineer.
+## Skills and Tools
 
-I enjoy building practical projects, learning new technologies, and improving my problem-solving skills through real-world applications, always trying to build or work related to my homeland, Cabo Verde.
-
-Currently, I'm working on:
-- A digital payment system
-- Java backend projects
-- Web development projects
-- Cloud and AWS studies
-- Game development
-
----
-
-## 🛠️ Technologies & Tools
-
-- Java
-- C++
-- HTML
-- CSS
-- JavaScript
-- AWS
-- Git & GitHub
-- VS Code
-
----
-
-## 📌 Current Goals
-
-- Improve backend and frontend development skills
-- Build full-stack projects
-- Learn more about cloud infrastructure and Cybersecurity
-- Grow as a software engineer
-
----
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,kotlin,react,html,css,aws,docker,git,github,visualstudio,vscode&perline=9)](https://skillicons.dev)
 
 ## 📫 Connect With Me
 
-- GitHub: JilsonCSvieira
-- LinkedIn: [Jilon Vieira] https://www.linkedin.com/in/jilsonvieira/
-- Gmail: jilsonpipo06@gmail.com
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jilsonvieira/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jilsonpipo06@gmail.com)
